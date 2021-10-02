@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">verify OTP</string>
+    <string name="otp">OTP</string>
+    <string name="otp">OTP</string>
+    <string name="create_account">Create Account</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email_id</string>
+    <string name="create_accounts">CREATE ACCOUNT</string>
+    <string name="password">password</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="n_request_details">\n Request Details</string>
+    <string name="change_date">Change Date</string>
+    <string name="email">Email</string>
+    <string name="od_purpoose">OD Purpoose</string>
+    <string name="name">Name</string>
+    <string name="roll_number">Roll No</string>
+    <string name="new_request">New Request</string>
+    <string name="create_new_id">Create New ID</string>
+    <string name="details">Details</string>
+    <string name="details">Details</string>
+    <string name="details">Details</string>
+    <string name="kaarthika_2001102">Kaarthika - 2001102</string>
+    <string name="krishnakumar_2001115">Krishnakumar-2001115</string>
+    <string name="kowshiga_2001114">Kowshiga-2001114</string>
+    <string name="request_details">Request Details</string>
+    <string name="new_request">New Request</string>
+    <string name="od_purpose">OD_purpose</string>
+    <string name="password">password</string>
+    <string name="todo">TODO</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+</resources>
